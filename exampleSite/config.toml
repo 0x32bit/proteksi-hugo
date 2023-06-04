@@ -86,7 +86,7 @@ expire_days = 3
 [[params.social]]
 title = "tiktok"
 icon = "ti-tumblr" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.tiktok.com/@proteksi.smala"
 
 
 [[params.social]]
@@ -138,7 +138,7 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "Podcast"
-url = "https://open.spotify.com/"
+url = "https://www.tiktok.com/@proteksi.smala/"
 weight = 4
 
 
@@ -162,6 +162,6 @@ url = "https://www.instagram.com/proteksi.smala/"
 
 [[Languages.en.menu.footer]]
 name = "Tiktok"
-url = "https://www.instagram.com/proteksi.smala/"
+url = "https://www.tiktok.com/@proteksi.smala/"
 
 
