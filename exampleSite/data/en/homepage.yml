@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner.jpg"
   slider_item:
     # slider item loop
-    - title : "Selamat Datang Di Web Page PROTEKSI "
-      content : " Di Webpage ini menyediakan berbagai informasi tentang UUITE Dan Berita Terkini. Yuk Cari Tau! "
+    - title : "Selamat Datang di Web Page PROTEKSI! "
+      content : "Web Page ini menyediakan berbagai informasi terkait Undang-undang Informasi dan Transaksi Elektronik. Yuk, cari tahu!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,7 +15,7 @@ slider:
         link : "blog/"
 
     # slider item loop
-    - title : "Kurang paham tentang UU ITE?"
+    - title : "Kurang Paham tentang UU ITE?"
       content : "Yuk, konsultasi dengan tim PROTEKSI!"
       animation_in : "left"
       animation_out : "right"
@@ -37,15 +37,15 @@ slider:
         link : "sosialisasi/"
 
     # slider item loop
-    - title : "Sudah paham tentang UU ITE?"
-      content : "Yuk, Uji pengetahuan kamu mengenai UU ITE dengan fitur games!"
+    - title : "Sudah Paham tentang UU ITE?"
+      content : "Yuk, uji pengetahuan kamu mengenai UU ITE dengan fitur games dan quiz!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Main Game Sekarang"
-        link : "https://wordwall.net/embed/2017f99a7e6e4510bb532ebbf7134d08?themeId=23&templateId=49&fontStackId=12"
+        link : "/FiturBelajar"
         
 
 

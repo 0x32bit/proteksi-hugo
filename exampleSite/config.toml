@@ -129,12 +129,12 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Fitur Belajar"
   name = "game"
-  url = "teacher/"
+  url = "game/"
 
   [[Languages.en.menu.main]]
   parent = "Fitur Belajar"
   name = "quiz"
-  url = "notice/"
+  url = "quiz/"
 
 [[Languages.en.menu.main]]
 name = "Sosialisasi"
