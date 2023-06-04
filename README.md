@@ -1,8 +1,6 @@
 <h1 align=center>Proteksi</h1> 
 <p align=center> INI ADALAH SOURCE CODE PROTEKSI </p>
 
-<h
-Our showcase aims to demonstrate to the world what amazing 
 <!-- resources -->
 ## 👍Special Thanks
 - [Bootstrap](https://getbootstrap.com)
