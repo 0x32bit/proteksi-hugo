@@ -92,12 +92,7 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/proteksiuuite"
+link = "https://www.instagram.com/proteksi.smala/"
 
 
 
@@ -162,11 +157,11 @@ weight = 7
 
 
 [[Languages.en.menu.footer]]
-name = "Update Terbaru"
-url = "update/"
+name = "Instagram"
+url = "https://www.instagram.com/proteksi.smala/"
 
 [[Languages.en.menu.footer]]
-name = "Instagram"
+name = "Tiktok"
 url = "https://www.instagram.com/proteksi.smala/"
 
 
