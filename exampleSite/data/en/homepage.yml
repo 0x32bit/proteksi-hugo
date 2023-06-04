@@ -57,7 +57,7 @@ banner_feature:
     # feature item loop
     - name : "Fitur Berita"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "kami menyediakan fitur Berita berbentuk seperti blog yang dikemas secara singkat, padat, dan jelas"
+      content : "Fitur berita akan memuat berita terkini mengenai UU ITE khususnya hoax yang tersebar melalui media sosial. Selain memaparkan berita, fitur ini juga menerima berita seputar UU ITE ataupun hoax dari teman-teman yang nantinya dapat dipublikasikan juga, loh!"
     # feature item loop
     - name : "Fitur Sosialisasi"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
