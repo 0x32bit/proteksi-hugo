@@ -1,103 +1,113 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/banner.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Selamat Datang Di Web Page PROTEKSI "
+      content : " Di Webpage ini menyediakan berbagai informasi tentang UUITE Dan Berita Terkini. Yuk Cari Tau! "
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Cari Tau Sekarang"
+        link : "blog/"
+
+    # slider item loop
+    - title : "Kurang paham tentang UU ITE?"
+      content : "Yuk, konsultasi dengan tim PROTEKSI!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Konsultasi Sekarang"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Ingin Tahu Info Terupdate Mengenai Sosialisasi PROTEKSI?"
+      content : "Yuk, kepoin halaman sosialisasi PROTEKSI!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "Cek Sekarang"
+        link : "sosialisasi/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Sudah paham tentang UU ITE?"
+      content : "Yuk, Uji pengetahuan kamu mengenai UU ITE dengan fitur games!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "Main Game Sekarang"
+        link : "https://wordwall.net/embed/2017f99a7e6e4510bb532ebbf7134d08?themeId=23&templateId=49&fontStackId=12"
+        
 
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/chat.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Fitur Berita"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
+      content : "kami menyediakan fitur Berita berbentuk seperti blog yang dikemas secara singkat, padat, dan jelas"
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Fitur Sosialisasi"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Fitur sosialisasi bermanfaat untuk memberi tahu pengunjung website mengenai informasi sosialisasi yang akan dilakukan dan/atau telah dilakukan"
 
     # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Fitur curhat"
+      icon : "ti-email" # icon pack : https://themify.me/themify-icons
+      content : "dapat dimanfaatkan untuk berkonsultasi perihal Undang-undang Informasi dan Transaksi Elektronik. Ketika pengguna memasukkan formulir di menu curhat"
 
     # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Fitur Belajar"
+      icon : "ti-game" # icon pack : https://themify.me/themify-icons
+      content : "Setelah membaca mengenai Undang-undang Informasi dan Transaksi Elektronik (UU ITE), kami juga menyediakan Fitur Games dan Fitur Quiz guna menguji pengetahuan kamu mengenai UU ITE."
 
 
 ############################## about ##################################
 about:
-  enable : true
-  title : "About Educenter"
+  enable : false
+  title : "Siapa Kami?"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  content : " Kami adalah Duta DPSH" 
 
 
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
   button:
-    enable : true
+    enable : false
     label : "Learn more"
     link : "about/"
 
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
-    enable : true
+    enable : false
     label : "join now"
     link : "contact/"
 
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
@@ -112,36 +122,13 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Sosialisasi Dan Podcast Tentang UUITE"
   # event item comes from "content/**/event" folder.
 
   
-########################### funfacts ############################
-funfacts:
-  enable : true
-  funfact_item:
-    # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
-
-    # funfact item loop
-    - name : "COURSES"
-      count : "50"
-
-    # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
-
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
-
-# funfact is for about page
-
-
 
 ############################# blog ################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "Berita Terbaru"
   # blog item comes from "content/**/blog" folder.
