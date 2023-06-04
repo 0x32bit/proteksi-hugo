@@ -66,12 +66,12 @@ banner_feature:
     # feature item loop
     - name : "Fitur curhat"
       icon : "ti-email" # icon pack : https://themify.me/themify-icons
-      content : "dapat dimanfaatkan untuk berkonsultasi perihal Undang-undang Informasi dan Transaksi Elektronik. Ketika pengguna memasukkan formulir di menu curhat"
+      content : "Fitur curhat dapat dimanfaatkan untuk berkonsultasi, bertanya, maupun memberikan masukan yang berhubungan dengan UU ITE dan hoax di media sosial. Fitur ini tergintegrasi dengan email PROTEKSI, sehingga ketika pengguna mengisi formulir di menu curhat, maka pesannya akan masuk ke email kami dan dapat langsung direspons sesegera mungkin."
 
     # feature item loop
     - name : "Fitur Belajar"
       icon : "ti-game" # icon pack : https://themify.me/themify-icons
-      content : "Setelah membaca mengenai Undang-undang Informasi dan Transaksi Elektronik (UU ITE), kami juga menyediakan Fitur Games dan Fitur Quiz guna menguji pengetahuan kamu mengenai UU ITE."
+      content : "Setelah membaca mengenai UU ITE dan hoax, teman-teman dapat menggunakan Fitur Games dan Fitur Quiz dalam Fitur Belajar ini guna menguji pengetahuan teman-teman, ya!"
 
 
 ############################## about ##################################
