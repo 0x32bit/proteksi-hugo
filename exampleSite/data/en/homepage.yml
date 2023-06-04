@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Cari Tau Sekarang"
-        link : "blog/"
+        link : "berita/"
 
     # slider item loop
     - title : "Kurang Paham tentang UU ITE?"
