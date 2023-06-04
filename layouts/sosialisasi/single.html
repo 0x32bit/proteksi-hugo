@@ -30,7 +30,7 @@
               <i class="ti-calendar text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "date" | upper}}</h6>
-                <p class="mb-0">{{ .Date.Format "02 Jan, 2006"}}</p>
+                <p class="mb-0">{{ .Date.Format "02 Jan 2006"}}</p>
               </div>
             </div>
           </li>
@@ -40,15 +40,6 @@
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "time" | upper }}</h6>
                 <p class="mb-0">{{ .Date.Format "15:04 MST"}}</p>
-              </div>
-            </div>
-          </li>
-          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-wallet text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "entry_fee" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Fee | markdownify }}</p>
               </div>
             </div>
           </li>
