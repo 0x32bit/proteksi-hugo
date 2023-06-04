@@ -122,7 +122,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Sosialisasi Dan Podcast Tentang UUITE"
+  title : "Sosialisasi Tentang UUITE"
   # event item comes from "content/**/event" folder.
 
   
