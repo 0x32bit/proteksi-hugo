@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Cari Tau Sekarang"
+        label : "Cari Tahu Sekarang"
         link : "berita/"
 
     # slider item loop
@@ -44,7 +44,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Main Game Sekarang"
+        label : "Mainkan Sekarang"
         link : "/FiturBelajar"
         
 
