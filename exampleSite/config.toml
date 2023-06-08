@@ -112,8 +112,8 @@ copyright = "Hak Cipta © 2023 SI-PROTEKSI"
 
 # main menu
 [[Languages.en.menu.main]]
-name = "Apa itu UU ITE?"
-url = "uuite/"
+name = "Apa itu Hoax?"
+url = "hoax/"
 weight = 1
 
 [[Languages.en.menu.main]]
