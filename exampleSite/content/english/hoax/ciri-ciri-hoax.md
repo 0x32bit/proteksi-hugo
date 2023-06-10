@@ -4,9 +4,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Ciri"
+description : ""
 # Research image
-image: "images/hoax/judi.png"
+image: "images/hoax/ciri.png"
 # type
 type: ""
 ---
