@@ -5,17 +5,17 @@ slider:
   slider_item:
     # slider item loop
     - title : "Selamat Datang di Web Page PROTEKSI! "
-      content : "Web Page ini menyediakan berbagai informasi terkait Undang-undang Informasi dan Transaksi Elektronik. Yuk, cari tahu!"
+      content : "Halaman web ini menyediakan berbagai informasi terkait Undang-Undang Informasi dan Transaksi Elektronik, khususnya mengenai Hoaks. Yuk, cari tahu!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Cari Tahu Sekarang"
-        link : "berita/"
+        link : "hoax/"
 
     # slider item loop
-    - title : "Kurang Paham tentang UU ITE?"
+    - title : "Kurang Paham tentang HOAKS?"
       content : "Yuk, konsultasi dengan tim PROTEKSI!"
       animation_in : "left"
       animation_out : "right"
@@ -37,8 +37,8 @@ slider:
         link : "sosialisasi/"
 
     # slider item loop
-    - title : "Sudah Paham tentang UU ITE?"
-      content : "Yuk, uji pengetahuan kamu mengenai UU ITE dengan fitur games dan quiz!"
+    - title : "Sudah Paham tentang HOAKS?"
+      content : "Yuk, uji pengetahuan kamu mengenai HOAX dengan fitur games dan quiz!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
