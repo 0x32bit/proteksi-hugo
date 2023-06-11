@@ -1,5 +1,5 @@
 ---
-title: "Penyebab Hoax"
+title: "D. PENYEBAB HOAX"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
